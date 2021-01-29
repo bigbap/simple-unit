@@ -1,5 +1,5 @@
 {
-  "name": "simple-unit",
+  "name": "@bigbap/simple-unit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "glob": "^7.1.6"
+  },
+  "repository": {
+    "url": "git://github.com/bigbap/simple-unit.git"
   }
 }
